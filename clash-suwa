@@ -707,6 +707,7 @@ proxy-groups:
 rules:
   # 自定义规则
   - DOMAIN-SUFFIX,ameritrade.com,TDameritrade
+  - DOMAIN-SUFFIX,tdameritrade.com,TDameritrade
   ## 您可以在此处插入您补充的自定义规则（请注意保持缩进）
 
   # 🎬Netflix
